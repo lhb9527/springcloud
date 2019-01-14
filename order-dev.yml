@@ -9,3 +9,5 @@ spring.datasource.password=123456
 
 env:
   dev
+label:
+  release
