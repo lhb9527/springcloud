@@ -5,8 +5,8 @@ spring:
     password: 123456
     url: jdbc:mysql://127.0.0.1:3306/world?characterEncoding=utf-8&useSSL=false
   redis:
-    host:127.0.0.1
-    port:6379
+    host: 127.0.0.1
+    port: 6379
 eureka:
   client:
     service-url:
